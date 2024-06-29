@@ -1,1 +1,1 @@
-# IT-230-
+The requirements and the goals of the application that I delveoped was to add the required user interfaces. Implement the required mathematical components such as the math variables, math operations, and the math methods. Lastly, I had to implement the library component such as creating variables, add branching, programming the library components, and incorporate logic operators. The goals of this application was to create a a zip file that containing all of the coding files to produce the correct output. 
